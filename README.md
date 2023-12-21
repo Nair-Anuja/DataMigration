@@ -15,8 +15,20 @@ Data Ingestion
 ![Data Ingestion Set Up](ProjectImages/Ingest.jpg)
 
 Data Ingestion - Source Data
-Mention the tables
-
-Data Ingestion - Sink
+Only the tables under the SalesLT schema in the AdventureWorksLT2022 database will be migrated as part of this project.
+Address 
+Customer
+CustomerAddress
+Product
+ProductCategory
+ProductDescription
+ProductModel
+ProductModelProductDescription
+SalesOrderDetail
+SalesOrderHeader
 
 Data Ingestion - ADF - Copy Activity 
+![ADF Pipeline](ProjectImages/pipeline.jpg)
+
+
+Data Ingestion - Sink
