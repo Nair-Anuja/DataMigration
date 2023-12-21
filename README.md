@@ -13,3 +13,10 @@ Environment Set Up
 Data Ingestion
 
 ![Data Ingestion Set Up](ProjectImages/Ingest.jpg)
+
+Data Ingestion - Source Data
+Mention the tables
+
+Data Ingestion - Sink
+
+Data Ingestion - ADF - Copy Activity 
