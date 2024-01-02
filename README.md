@@ -32,3 +32,6 @@ Data Ingestion - ADF - Copy Activity
 
 
 Data Ingestion - Sink
+The table data will be stored in parquet file format in the data lake.
+Naming Convention  : sqlserver-migration / bronze/SchemaName /TableName/ TableName.parquet
+
