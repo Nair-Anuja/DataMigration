@@ -45,3 +45,7 @@ The below snapshot shows the dynamic query content for the source. This will ret
 \
 The below snapshot shows the sink settings for the copy activity.
 ![source](/ProjectImages/ingestplcopy_sink.png)
+
+
+
+## Datasets and Linked Services
