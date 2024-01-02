@@ -15,17 +15,17 @@ This project is about migration sql server database to Azure SQL database.
 ![Data Ingestion Set Up](ProjectImages/Ingest.jpg)
 
 #### Data Ingestion - Source Data
-Only the tables under the SalesLT schema in the AdventureWorksLT2022 database will be migrated as part of this project.
-Address 
-Customer
-CustomerAddress
-Product
-ProductCategory
-ProductDescription
-ProductModel
-ProductModelProductDescription
-SalesOrderDetail
-SalesOrderHeader
+Only the below tables under the SalesLT schema in the AdventureWorksLT2022 database will be migrated as part of this project.\
+Address \
+Customer \
+CustomerAddress \
+Product \
+ProductCategory \
+ProductDescription \
+ProductModel \
+ProductModelProductDescription \
+SalesOrderDetail \
+SalesOrderHeader 
 
 #### Data Ingestion - ADF - Copy Activity 
 ![ADF Pipeline](ProjectImages/pipeline.jpg)
