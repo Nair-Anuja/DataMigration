@@ -1,4 +1,4 @@
-As the source is on premises , Self hosted integration runtime needs to be set up for the execution of the data factory pipelines.  Select the below created IR while creating the linked service to the on premises sql server.
+As the source is on premises , Self hosted integration runtime needs to be set up for the execution of the data factory pipelines.  **Select the below created IR while creating the linked service to the on premises sql server.**
 
 Navigate to the **Manage** tab in Azure Data Factory , click on integration runtimes under Connections and click **New** to create a new integration run time.
 ![IR](/ProjectImages/IntegrationRuntime.PNG)
