@@ -16,4 +16,10 @@ The access keys for the data lake storage can be found under the **Security and 
 
 
 
+[Create compute resource](/ProjectImages/adb_create_compute.png) in the databricks workspace with the below specifications.
+![cluster](/ProjectImages/Cluster.png)
+
+
+
+
 
