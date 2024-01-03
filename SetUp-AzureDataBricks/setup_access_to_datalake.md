@@ -9,9 +9,9 @@
 
    ![App Registration](/ProjectImages/2.AppRegistration.png)
 
-   [ClientSecret](ProjectImages/3.NewClientSecret.png)
+   ![ClientSecret](/ProjectImages/3.NewClientSecret.png)
 
-   [copy secret](ProjectImages/4.CopysecretValue.png)
+   ![copy secret](/ProjectImages/4.CopysecretValue.png)
 
-   [roleassignment](ProjectImages/5.RoleAssignmentinDL.png)
-   [secretinkeyvauly](ProjectImages/6.CreatesecertinKeyVault.png)
+   ![roleassignment](/ProjectImages/5.RoleAssignmentinDL.png)
+   ![secretinkeyvault](/ProjectImages/6.CreatesecretinKeyVault.png)
