@@ -5,7 +5,7 @@ Project is in progress.
 
 ## Solution Architecture
 
-### Environment Set Up
+## Environment Set Up
 1. Download the [AdventureWorksLT](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) back up file. The link has instructions to restore the file.
 2. Set up user /password to access the database.
 3. On the Azure portal , set up the subscription. Within the subscription set up Data Factory , Azure Data Lake Storage, SQL Database, [key vault](SetUp-AzureKeyVault).
@@ -41,4 +41,11 @@ The table data will be stored in parquet file format in the data lake.\
 Naming Convention  : **sqlserver-migration / bronze/SchemaName /TableName/ TableName.parquet**
 
 ![ADLSFileStorage](ProjectImages/adlsfilestructure.png)
+
+## Data Transformation using Databricks
+Azure Databricks will be used to transform the data in azure datalake.
+Follow the ![link](<SetUp-Azure Databricks>) to set up the azure databricks workspace.
+
+## Data Loading using Azure Synapse Analytics
+## Data Reporting
 
