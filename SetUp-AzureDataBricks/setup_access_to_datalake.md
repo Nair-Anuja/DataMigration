@@ -7,7 +7,7 @@
  
    ![entraid](/ProjectImages/EntraID.png)
 
-   [App Registration](ProjectImages/2.AppRegistration.png)
+   ![App Registration](/ProjectImages/2.AppRegistration.png)
 
    [ClientSecret](ProjectImages/3.NewClientSecret.png)
 
