@@ -44,7 +44,11 @@ Naming Convention  : **sqlserver-migration / bronze/SchemaName /TableName/ Table
 
 ## Data Transformation using Databricks
 Azure Databricks will be used to transform the data in azure datalake.
+Since the source data is structured data , there is only minimal transformation to be done. In the first stage , data from bronze layer will be transformed to silver layer and finally , the aggregated data will be stored in the gold layer.
 Follow the [link](<SetUp-Azure Databricks>) to set up the azure databricks workspace.
+
+\ 
+Include transformation logic for each table and then just include the notebook in a different folder.
 
 ## Data Loading using Azure Synapse Analytics
 ## Data Reporting
