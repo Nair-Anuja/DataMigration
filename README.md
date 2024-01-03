@@ -44,7 +44,7 @@ Naming Convention  : **sqlserver-migration / bronze/SchemaName /TableName/ Table
 
 ## Data Transformation using Databricks
 Azure Databricks will be used to transform the data in azure datalake.
-Follow the ![link](<SetUp-Azure Databricks>) to set up the azure databricks workspace.
+Follow the [link](<SetUp-Azure Databricks>) to set up the azure databricks workspace.
 
 ## Data Loading using Azure Synapse Analytics
 ## Data Reporting
