@@ -4,7 +4,7 @@
 3. Add the service principal details to the key vault.
 4. Create secret scope in azure databricks
 
-   [entraid](ProjectImages/1_EntraId.png)
+   [entraid](ProjectImages/EntraId.png)
 
    [App Registration](ProjectImages/2.AppRegistration.png)
 
