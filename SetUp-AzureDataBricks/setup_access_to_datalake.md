@@ -15,3 +15,7 @@
 
    ![roleassignment](/ProjectImages/5.RoleAssignmentinDL.png)
    ![secretinkeyvault](/ProjectImages/6.CreatesecretinKeyVault.png)
+
+\
+Add /secrets/createScope to the end of the azure databricks url.
+For example https://adb-460000000000000.16.azuredatabricks.net/?o=460000000000&l=en-us#secrets/createScope
