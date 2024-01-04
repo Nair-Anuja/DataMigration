@@ -19,3 +19,6 @@
 \
 Add /secrets/createScope to the end of the azure databricks url.
 For example https://adb-460000000000000.16.azuredatabricks.net/?o=460000000000&l=en-us#secrets/createScope
+
+ ![createScope](/ProjectImages/createScope.png)
+  ![keyvault url](/ProjectImages/KV_Url.png)
