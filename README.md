@@ -50,9 +50,24 @@ Azure Databricks will be used to transform the data in azure datalake.
 Since the source data is structured data , there is only minimal transformation to be done. In the first stage , data from bronze layer will be transformed to silver layer and finally , the aggregated data will be stored in the gold layer.
 Follow the [link](<SetUp-Azure Databricks>) to set up the azure databricks workspace.
 
-\ 
-Include transformation logic for each table and then just include the notebook in a different folder.
+
+Before ingesting data into silver layer , below transformations are to be applied on bronze layer data .
+
+| TableName | Transformation  |
+| ------------- | ------------------|
+| Address | Convert the ModifiedDate column to date type ; Drop rowguid column |
+| Customer |Convert the ModifiedDate column to date type ; Drop rowguid column  |
+| CustomerAddress | Convert the ModifiedDate column to date type ; Drop rowguid column|
+| Product| Convert the ModifiedDate column to date type ; Drop rowguid column|
+| ProductCategory| Convert the ModifiedDate column to date type ; Drop rowguid column|
+| ProductDescription| Convert the ModifiedDate column to date type ; Drop rowguid column|
+| ProductModel| Convert the ModifiedDate column to date type ; Drop rowguid column|
+| ProductModelProductDescription| Convert the ModifiedDate column to date type ; Drop rowguid column|
+| SalesOrderDetail| Convert the ModifiedDate column to date type ; Drop rowguid column|
+| SalesOrderHeader| Convert the ModifiedDate column to date type ; Drop rowguid column|
+
+Going into gold layer , columns will be renamed and business level aggregrations will be applied.
 
 ## Data Loading using Azure Synapse Analytics
-## Data Reporting
+## Data Reporting using PowerBI
 
