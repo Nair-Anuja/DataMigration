@@ -17,6 +17,7 @@ The access keys for the data lake storage can be found under the **Security and 
 
 
 [Create compute resource](/ProjectImages/adb_create_compute.png) in the databricks workspace with the below specifications.
+Changed the Access Mode to 'No isolation shared' as the notebooks could not be run from the data factory (as 'Existimg interactive cluster was selected while creating the linked service).
 ![cluster](/ProjectImages/Cluster.png)
 
 
