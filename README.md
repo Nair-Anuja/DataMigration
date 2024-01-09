@@ -68,6 +68,8 @@ Before ingesting data into silver layer , below transformations are to be applie
 
 Going into gold layer , columns will be renamed and business level aggregrations will be applied.
 
+The databricks project code can be found [here](Code/DataBricks).
+
 The two notebooks will be added to a data factory pipeline to automate the job fully.
 
 ## Data Loading using Azure Synapse Analytics
