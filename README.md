@@ -73,5 +73,7 @@ The databricks project code can be found [here](Code/DataBricks).
 The two notebooks will be added to a data factory pipeline to automate the job fully.
 
 ## Data Loading using Azure Synapse Analytics
+Azure synapse Anlytics workspace was set up under a different resource group and a new data lake storage was created for easy clean up after project completion.
+
 ## Data Reporting using PowerBI
 
