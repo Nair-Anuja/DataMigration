@@ -81,5 +81,5 @@ The code to create the views can be found [here](/Code/AzureSynapseAnalytics).
 
 The steps involved in setting up the synapse workspace and the pipeline is described [here](/SetUp-AzureSynapseAnalytics).
 
-## Data Reporting using PowerBI
+## Data Reporting using Synapse Workspace and PowerBI
 
