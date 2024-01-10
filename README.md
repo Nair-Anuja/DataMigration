@@ -6,7 +6,7 @@ Project is in progress.
 ## Solution Architecture
 
 
-Alterntaive approach is to use Azure Synapse Analytics for the whole ELT process.
+Alternative approach is to use Azure Synapse Analytics for the whole ELT process.
 
 ## Environment Set Up
 1. Download the [AdventureWorksLT](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) back up file. The link has instructions to restore the file.
