@@ -8,3 +8,12 @@
       \
    \
    ![](/ProjectImages/3.synapse_data_tab.png)
+
+
+  3. Create a SQL Database using the builtin server.
+     ![](/ProjectImages/synapse_createsqldb.png)
+
+     \
+     \
+     ![](/ProjectImages/synapse_AdventureWorks.png)
+      
