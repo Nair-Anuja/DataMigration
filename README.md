@@ -74,9 +74,12 @@ The databricks project code can be found [here](Code/DataBricks).
 The two notebooks will be added to a data factory pipeline to automate the job fully.
 
 ## Data Loading using Azure Synapse Analytics
+In this step, the transformed data from the gold layer will be loaded to azure sql database in the Azure Synapse Workspace. This will be accomplished using the sql scripts and pipeline.
+![](/ProjectImages/Load.png)
+
 Azure synapse Analytics workspace was set up under a different resource group and a new data lake storage was created for easy clean up after project completion. 
 
-In this step, the transformed data from the gold layer will be loaded to azure sql database in the Azure Synapse Workspace. This will be accomplished using the sql scripts and pipeline.
+
 
 The code to create the views can be found [here](/Code/AzureSynapseAnalytics).
 
