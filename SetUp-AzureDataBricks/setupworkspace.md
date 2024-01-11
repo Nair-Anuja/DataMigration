@@ -22,6 +22,11 @@ Changed the Access Mode to 'No isolation shared' as the notebooks could not be r
 
 
 
+Create Scope
+![scope](/ProjectImages/(createScope.png)
+![scope_kv](/ProjectImages/(KV_Url.png)
+
+
 
 
 
