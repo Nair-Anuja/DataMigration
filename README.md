@@ -77,13 +77,15 @@ The two notebooks will be added to a data factory pipeline to automate the job f
 In this step, the transformed data from the gold layer will be loaded to azure sql database in the Azure Synapse Workspace. This will be accomplished using the sql scripts and pipeline.
 ![](/ProjectImages/Load.png)
 
-Azure synapse Analytics workspace was set up under a different resource group and a new data lake storage was created for easy clean up after project completion. 
 
 
 
 The code to create the views can be found [here](/Code/AzureSynapseAnalytics).
 
 The steps involved in setting up the synapse workspace and the pipeline is described [here](/SetUp-AzureSynapseAnalytics).
+
+
+![](/ProjectImages/synapse.png)
 
 ## Data Reporting using Synapse Workspace and PowerBI
 
