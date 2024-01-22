@@ -14,7 +14,7 @@ As shown in the figure below , go to access policies and click on create to give
 
 
 Get and List secret permissions were given to the azure data factory and synapse analytics services.
-
+![](/ProjectImages/CreateAccessPolicy.png)
 
 
 The below figure shows all the project related secrets stored in the key vault.
