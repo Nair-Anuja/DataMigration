@@ -20,6 +20,6 @@
 
    ![](/ProjectImages/synapse_add_sp_parameters.png)
 
-  4. pipeline run
+  4. After successful run of the pipeline, views get created under the SalesLT schema as seen in the figure below.
      ![](/ProjectImages/synapse_pipeline_run.png)  
    
