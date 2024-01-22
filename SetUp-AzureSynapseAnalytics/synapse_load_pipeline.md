@@ -15,8 +15,7 @@
    Stored Procedure activity
        Dataset :   ![](/ProjectImages/synapse_ds_AdventureWorks.png)
        Linked Service :   ![](/ProjectImages/synapse_ls_sqldb.png)
-
-        ![](/ProjectImages/synapse_storedprocedure.png)
+       select stored procedure from the drop down : ![](/ProjectImages/synapse_storedprocedure.png)
 
    ![](/ProjectImages/synapse_add_sp_parameters.png)
 
