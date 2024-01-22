@@ -12,7 +12,7 @@
 2. For Each Loop
    ![expression builder](/ProjectImages/synapse_expressionbuilder_foreach.png)
 
-       Stored Procedure activity
+   Stored Procedure activity
        Dataset :   ![](/ProjectImages/synapse_ds_AdventureWorks.png)
        Linked Service :   ![](/ProjectImages/synapse_ls_sqldb.png)
 
