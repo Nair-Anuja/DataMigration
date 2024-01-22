@@ -1,12 +1,13 @@
 # DataMigration
-This project is about migration sql server database to Azure SQL database.
+In this project , we will be building an end -to - end pipeline for migrating on-premises database to cloud.
+We will be implementing the project on Azure.
 \
 Project is in progress.
 
 ## Solution Architecture
 
 
-Alternative approach is to use Azure Synapse Analytics for the whole ELT process.
+Alternative approach is to use Azure Synapse Analytics for the whole ELT process. The project can also be implemented using Azure Data Factory for extract and transform and Azure SQL database as the sink.
 
 ## Environment Set Up
 1. Download the [AdventureWorksLT](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) back up file. The link has instructions to restore the file.
