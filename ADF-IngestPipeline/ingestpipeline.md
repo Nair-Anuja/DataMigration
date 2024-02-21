@@ -19,6 +19,10 @@ Lookup activity is used to select all the tables under the SalesLT schema from t
   JOIN   sys.schemas S on T.schema_id = S.schema_id\
   WHERE s.name = 'SalesLT'  
 
+\
+  **Dataset**
+  **Linked Service**
+
 
 ### ForEach Activity
 This activity will iterate through the output of the lookup activity ( schema and table names ) and perform the copy activity in a loop to copy each table into the data lake.\  
@@ -46,6 +50,7 @@ The below snapshot shows the dynamic query content for the source. This will ret
 The below snapshot shows the sink settings for the copy activity.
 ![source](/ProjectImages/ingestplcopy_sink.png)
 
+ **Dataset**
+ **Linked Service**
 
 
-## Datasets and Linked Services
