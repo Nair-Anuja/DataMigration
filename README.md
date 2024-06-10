@@ -93,7 +93,6 @@ The steps involved in setting up the synapse workspace and the pipeline is descr
 
 ## Data Reporting using Synapse Workspace and PowerBI
 
-Thanks for taking your time to read this article. I am going to do the part two of this project by loading the data to postgresSQL database.
-
+Thanks for taking your time to read this article.
 
 
