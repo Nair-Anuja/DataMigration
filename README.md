@@ -92,6 +92,8 @@ The steps involved in setting up the synapse workspace and the pipeline is descr
 ![](/ProjectImages/synapse.png)
 
 ## Data Reporting using Synapse Workspace and PowerBI
+Finally created a dasboard to visualise the data.
+![](/ProjectImages/Dashboard.png)
 
 Thanks for taking your time to read this article.
 
